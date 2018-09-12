@@ -18,13 +18,13 @@ function divide (a,b)
   return a / b
 }
 
-var n = 5
+var n = 0
 function inc(n)
 {
   n++
 }
 
-var n = 5
+var n = 0
 function dec(n)
 {
   n--
