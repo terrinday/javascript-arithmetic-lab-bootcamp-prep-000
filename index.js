@@ -18,16 +18,16 @@ function divide (a,b)
   return a / b
 }
 
-var n = 0
+var n = 5
 function inc(n)
 {
-  return n ++
+  n++
 }
 
-var n = 0
+var n = 5
 function dec(n)
 {
-  return n --
+  n--
 }
 
 function makeInt(n)
